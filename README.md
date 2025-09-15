@@ -1,6 +1,6 @@
 # CieloQuantumAI.github.io
 
-###Education
+### Education
 Physics, BSE
 
 ### Work Experience
